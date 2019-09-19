@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: pentaho:pentaho-big-data-kettle-plugins-formats:7.0.0.0-25">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-big-data-kettle-plugins-formats/7.0.0.0-25/pentaho-big-data-kettle-plugins-formats-7.0.0.0-25.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-big-data-kettle-plugins-formats/7.0.0.0-25/pentaho-big-data-kettle-plugins-formats-7.0.0.0-25-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-big-data-kettle-plugins-formats/7.0.0.0-25/pentaho-big-data-kettle-plugins-formats-7.0.0.0-25-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
